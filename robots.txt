@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ohasciry.github.io/ohasciry.txt.gz
+Sitemap: https://ohasciry.github.io/app/ohasciry.txt.gz
+Sitemap: https://ohasciry.github.io/assets/ohasciry.txt.gz
+Sitemap: https://ohasciry.github.io/css/ohasciry.txt.gz
+Sitemap: https://ohasciry.github.io/includes/ohasciry.txt.gz
+Sitemap: https://ohasciry.github.io/item/ohasciry.txt.gz
+Sitemap: https://ohasciry.github.io/src/ohasciry.txt.gz
